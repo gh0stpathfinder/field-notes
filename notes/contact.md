@@ -2,7 +2,7 @@
 
 ```text
 channel: external
-address: gh0stpathfinder@outlook.com
+address: [removed]
 window:  21:00–21:15Z
 ```
 
