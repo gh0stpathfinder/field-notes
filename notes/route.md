@@ -1,7 +1,8 @@
-# Route fragment
+# route / 2026-07-19
 
-The city lights are behind me.
+```text
+A17 -> B04 -> C31
+```
 
-Next waypoint: **[destination removed]**.
-
-Arrive before the machines go quiet.
+next: `[removed]`  
+status: unresolved
