@@ -6,7 +6,6 @@ Scratch material from ongoing research. Files may change without notice.
 archive/   original source files
 data/      normalized indexes
 notes/     working observations
-tools/     local utilities
 ```
 
 Times are UTC unless noted otherwise.
