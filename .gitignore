@@ -1,0 +1,5 @@
+*.DS_Store
+*.tmp
+*.out
+__pycache__/
+.exiftool_tmp
