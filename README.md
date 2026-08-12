@@ -1,10 +1,12 @@
 # field-notes
 
-Working material. Incomplete by design.
+Scratch material from ongoing research. Files may change without notice.
 
-- `notes/` — observations and route fragments
-- `data/` — normalized timestamps and references
-- `tools/` — small local utilities
-- `archive/` — source material retained at original quality
+```text
+archive/   original source files
+data/      normalized indexes
+notes/     working observations
+tools/     local utilities
+```
 
-Assume timestamps are UTC unless a file says otherwise.
+Times are UTC unless noted otherwise.
