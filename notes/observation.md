@@ -1,3 +1,7 @@
-# Observation 03
+# observation / C31
 
-The destination preserves machines, methods, and the people who broke impossible messages.
+```text
+scope:  public collection
+focus:  machines / methods / personnel
+status: revisit
+```
