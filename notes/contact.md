@@ -1,4 +1,4 @@
-# contact / C31
+# contact
 
 ```text
 channel: external
