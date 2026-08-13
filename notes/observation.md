@@ -1,4 +1,4 @@
-# observation / C31
+# observation
 
 ```text
 scope:  public collection
